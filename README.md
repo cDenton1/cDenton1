@@ -1,6 +1,6 @@
 ## Hi there, I'm cDenton1 👋
 
-- 🔭 I'm currently working on improving some of my projects, including my capstone project, FortiFi, and my personal blog/website
+- 🔭 I'm currently working on improving some of my projects, and my blog/website
 - 🌱 I’m constantly learning more about computer forensics and cybersecurity in general
 - 🏫 I have a diploma in Information Systems Security and am working towards a BTech in Cybersecurity
 - ⚡ Some fun facts about myself, I enjoy photography, hiking, and competing in CTF competitions
